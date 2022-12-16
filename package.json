@@ -1,0 +1,9 @@
+{
+  "name": "bom-11-full",
+  "scripts": {},
+  "author": "Vladimir Patrikeev",
+  "dependencies": {
+    "fonts.css": "^2.0.0",
+    "redom": "^3.29.1"
+  }
+}
